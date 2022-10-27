@@ -1,0 +1,315 @@
+
+Ime testa : Registracija korisnika 
+Opis testa : Test proverava registraciju korisnika 
+Test je uspesan 
+
+
+
+
+Ime testa : Prijava korisnika 
+Opis testa : Test proverava prijavu korisnika na sajt 
+Test je uspesan 
+
+
+
+
+Ime testa : Provera podataka prijavljenog korsinika 
+Opis testa : Test proverava indenti?nost podataka prijavljenog korisnika 
+Test je uspesan 
+
+
+
+
+Ime testa : Dodavanje proizvoda u korpu 
+Opis testa : Test proverava da li se proizvodi dodaju u korpu 
+Test je uspesan 
+
+
+
+
+Ime testa : Provera ukupnog iznosa u korpi 
+Opis testa : Test proverava da li je ukupan iznos dodatih proizvoda u korpi ispravan 
+Test je uspesan 
+
+
+
+
+Ime testa : O nama 
+Opis testa : Test uzima deo podataka o kompaniji Overnight 
+Test je uspesan 
+
+Home » O nama
+O nama
+Poveden radnim iskustvom u slovena?kom GORENJU i predvi?anjem da ?e do?i do raspada SFRJ, odlu?io sam da 05.05.1990. godine osnujem "Servis MIši?" u Kragujevcu i otpo?nem da se bavim privatnim poslom. Kao i svaki po?etak, ni ovaj nije bio lak. ?esto sam nailazio na negodovanje okruženja kada sam pri?ao o idejama koje imam. Iako pod pritiskom rata, sankcija, hiperinflacije i siromaštva ipak sam uspeo da organizujem firmu koja ?e u godinama do danas, i nadam se u budu?e uvek biti na usluzi kragujev?anima kod rešavanja problema sa ku?nim aparatima marke GORENJE. POSTALI SMO OVLAŠ?ENI GORENJE SERVIS ZA KRAGUJEVAC I OKOLINU.
+U godinama do 1997.Servis Miši? beleži rast i razvoj poslovanja. Rast i razvoj je pra?en pove?anjem broja zaposlenih, pove?anjem imovine, ostvarivanjem RASTA bilnasnih pokazatelja na kraju svake godine. Te 1997. dolazi i do horizontalnog širenja, i otvaramo prodajnog mesto ku?nih aparata (bela tehnika, mali ku?ni aparati, televizori). Tada odlu?ujemo da i u prodaji brend koji ?emo sa posebnom pažnjom zastupati bude GORENJE.
+Godine 1997. odlu?ujemo da menjamo i pravnu formu, postajemo društvo sa ograni?enom odgovornoš?u, MIŠI? D.O.O. Poslovanje do 2000te je beležilo konstantan rast, ali u manjem obimu od planiranog, kako zbog zatvorenosti tržišta tako i zbog bombardovanja 1999. godine. Od po?etka ovog veka do danas, MIŠI? D.O.O. neprestano raste, na zadovoljstvo svih zaposlenih. Iako okruženi velikim sistemima i multinacionalnim kompanijama, teritorija koju pokriva naš servis je sve ve?a i ve?a. Ovlaš?eni servis Gorenja smo na teritoriji: Kragujevca, Topole, Arandjelovca, Bato?ine, Lapova, Kni?, Gruža sa približno 300.000 stanovnika. Trgovina zauzima lidersko mesto u prodaji bele tehnike GORENJE.
+Tržišno orijentisani, širili smo oblast poslovanja, pa tako danas zastupamo i proizvo?a?a profesionalnih kuhinjskih ure?aja OLISS iz Italije. Trenutno upošljavamo 12 zaposlenih, i taj broj ima rastu?i trend. Preko 20 godina smo najbolji prijatelji vas i vaših ku?nih aparata, sigurni smo da ?e tako biti još mnogo godina.
+S poštovanjem, Dragoslav Miši?
+
+
+Ime testa : Performasne otvaranja 
+Opis testa : Performanse otvaranja 5 razlicitih stranica 
+Test je uspesan 
+
+
+Izvestaj o performansama stranica.
+Pocetna stranica: 16613.0
+Kontakt stranica: 2917.0
+Stranica za klima uredjaje i grejanje: 6858.0
+Stranica za nacin isporuke: 1789.0
+Stranica za ugradnu tehniku: 4931.0
+
+--------------------------------------------------------------
+Srednja vrednost: 6621.6
+
+
+
+Ime testa : Test pretrage proizvoda 
+Opis testa : Test proverava da li funkcionise pretraga proizvoda 
+Test je uspesan 
+
+
+
+
+Ime testa : Test liste zelja 
+Opis testa : Test proverava da li funkcionise dodavanje proizvoda u listu zelja 
+Test je uspesan 
+
+
+
+
+Ime testa : Test drustvenih mreza 
+Opis testa : Test proverava pristup profilima drustvenih mreza  
+Test je uspesan 
+
+
+
+
+Ime testa : Test uporedjivanja proizvoda 
+Opis testa : Test proverava da li funkcionise poredjenje proizvoda 
+Test je uspesan 
+
+
+
+
+
+Ime testa : Registracija korisnika 
+Opis testa : Test proverava registraciju korisnika 
+Test je uspesan 
+
+
+
+
+Ime testa : Prijava korisnika 
+Opis testa : Test proverava prijavu korisnika na sajt 
+Test je uspesan 
+
+
+
+
+Ime testa : Provera podataka prijavljenog korsinika 
+Opis testa : Test proverava indenti?nost podataka prijavljenog korisnika 
+Test je uspesan 
+
+
+
+
+Ime testa : Dodavanje proizvoda u korpu 
+Opis testa : Test proverava da li se proizvodi dodaju u korpu 
+Test je uspesan 
+
+
+
+
+Ime testa : Provera ukupnog iznosa u korpi 
+Opis testa : Test proverava da li je ukupan iznos dodatih proizvoda u korpi ispravan 
+Test je uspesan 
+
+
+
+
+Ime testa : O nama 
+Opis testa : Test uzima deo podataka o kompaniji Overnight 
+Test je uspesan 
+
+Home » O nama
+O nama
+Poveden radnim iskustvom u slovena?kom GORENJU i predvi?anjem da ?e do?i do raspada SFRJ, odlu?io sam da 05.05.1990. godine osnujem "Servis MIši?" u Kragujevcu i otpo?nem da se bavim privatnim poslom. Kao i svaki po?etak, ni ovaj nije bio lak. ?esto sam nailazio na negodovanje okruženja kada sam pri?ao o idejama koje imam. Iako pod pritiskom rata, sankcija, hiperinflacije i siromaštva ipak sam uspeo da organizujem firmu koja ?e u godinama do danas, i nadam se u budu?e uvek biti na usluzi kragujev?anima kod rešavanja problema sa ku?nim aparatima marke GORENJE. POSTALI SMO OVLAŠ?ENI GORENJE SERVIS ZA KRAGUJEVAC I OKOLINU.
+U godinama do 1997.Servis Miši? beleži rast i razvoj poslovanja. Rast i razvoj je pra?en pove?anjem broja zaposlenih, pove?anjem imovine, ostvarivanjem RASTA bilnasnih pokazatelja na kraju svake godine. Te 1997. dolazi i do horizontalnog širenja, i otvaramo prodajnog mesto ku?nih aparata (bela tehnika, mali ku?ni aparati, televizori). Tada odlu?ujemo da i u prodaji brend koji ?emo sa posebnom pažnjom zastupati bude GORENJE.
+Godine 1997. odlu?ujemo da menjamo i pravnu formu, postajemo društvo sa ograni?enom odgovornoš?u, MIŠI? D.O.O. Poslovanje do 2000te je beležilo konstantan rast, ali u manjem obimu od planiranog, kako zbog zatvorenosti tržišta tako i zbog bombardovanja 1999. godine. Od po?etka ovog veka do danas, MIŠI? D.O.O. neprestano raste, na zadovoljstvo svih zaposlenih. Iako okruženi velikim sistemima i multinacionalnim kompanijama, teritorija koju pokriva naš servis je sve ve?a i ve?a. Ovlaš?eni servis Gorenja smo na teritoriji: Kragujevca, Topole, Arandjelovca, Bato?ine, Lapova, Kni?, Gruža sa približno 300.000 stanovnika. Trgovina zauzima lidersko mesto u prodaji bele tehnike GORENJE.
+Tržišno orijentisani, širili smo oblast poslovanja, pa tako danas zastupamo i proizvo?a?a profesionalnih kuhinjskih ure?aja OLISS iz Italije. Trenutno upošljavamo 12 zaposlenih, i taj broj ima rastu?i trend. Preko 20 godina smo najbolji prijatelji vas i vaših ku?nih aparata, sigurni smo da ?e tako biti još mnogo godina.
+S poštovanjem, Dragoslav Miši?
+
+
+Ime testa : Performasne otvaranja 
+Opis testa : Performanse otvaranja 5 razlicitih stranica 
+Test je uspesan 
+
+
+Izvestaj o performansama stranica.
+Pocetna stranica: 15739.0
+Kontakt stranica: 2492.0
+Stranica za klima uredjaje i grejanje: 8624.0
+Stranica za nacin isporuke: 1757.0
+Stranica za ugradnu tehniku: 5082.0
+
+--------------------------------------------------------------
+Srednja vrednost: 6738.8
+
+
+
+Ime testa : Test pretrage proizvoda 
+Opis testa : Test proverava da li funkcionise pretraga proizvoda 
+Test je uspesan 
+
+
+
+
+Ime testa : Test liste zelja 
+Opis testa : Test proverava da li funkcionise dodavanje proizvoda u listu zelja 
+Test je uspesan 
+
+
+
+
+Ime testa : Test drustvenih mreza 
+Opis testa : Test proverava pristup profilima drustvenih mreza  
+Test je uspesan 
+
+
+
+
+Ime testa : Test uporedjivanja proizvoda 
+Opis testa : Test proverava da li funkcionise poredjenje proizvoda 
+Test je uspesan 
+
+
+
+
+Ime testa : Registracija korisnika 
+Opis testa : Test proverava registraciju korisnika 
+Test je uspesan 
+
+
+
+
+Ime testa : Prijava korisnika 
+Opis testa : Test proverava prijavu korisnika na sajt 
+Test je uspesan 
+
+
+
+
+Ime testa : Provera podataka prijavljenog korsinika 
+Opis testa : Test proverava indenti?nost podataka prijavljenog korisnika 
+Test je uspesan 
+
+
+
+
+Ime testa : Dodavanje proizvoda u korpu 
+Opis testa : Test proverava da li se proizvodi dodaju u korpu 
+Test je uspesan 
+
+
+
+
+Ime testa : Provera ukupnog iznosa u korpi 
+Opis testa : Test proverava da li je ukupan iznos dodatih proizvoda u korpi ispravan 
+Test je uspesan 
+
+
+
+
+Ime testa : O nama 
+Opis testa : Test uzima deo podataka o kompaniji Overnight 
+Test je uspesan 
+
+Home » O nama
+O nama
+Poveden radnim iskustvom u slovena?kom GORENJU i predvi?anjem da ?e do?i do raspada SFRJ, odlu?io sam da 05.05.1990. godine osnujem "Servis MIši?" u Kragujevcu i otpo?nem da se bavim privatnim poslom. Kao i svaki po?etak, ni ovaj nije bio lak. ?esto sam nailazio na negodovanje okruženja kada sam pri?ao o idejama koje imam. Iako pod pritiskom rata, sankcija, hiperinflacije i siromaštva ipak sam uspeo da organizujem firmu koja ?e u godinama do danas, i nadam se u budu?e uvek biti na usluzi kragujev?anima kod rešavanja problema sa ku?nim aparatima marke GORENJE. POSTALI SMO OVLAŠ?ENI GORENJE SERVIS ZA KRAGUJEVAC I OKOLINU.
+U godinama do 1997.Servis Miši? beleži rast i razvoj poslovanja. Rast i razvoj je pra?en pove?anjem broja zaposlenih, pove?anjem imovine, ostvarivanjem RASTA bilnasnih pokazatelja na kraju svake godine. Te 1997. dolazi i do horizontalnog širenja, i otvaramo prodajnog mesto ku?nih aparata (bela tehnika, mali ku?ni aparati, televizori). Tada odlu?ujemo da i u prodaji brend koji ?emo sa posebnom pažnjom zastupati bude GORENJE.
+Godine 1997. odlu?ujemo da menjamo i pravnu formu, postajemo društvo sa ograni?enom odgovornoš?u, MIŠI? D.O.O. Poslovanje do 2000te je beležilo konstantan rast, ali u manjem obimu od planiranog, kako zbog zatvorenosti tržišta tako i zbog bombardovanja 1999. godine. Od po?etka ovog veka do danas, MIŠI? D.O.O. neprestano raste, na zadovoljstvo svih zaposlenih. Iako okruženi velikim sistemima i multinacionalnim kompanijama, teritorija koju pokriva naš servis je sve ve?a i ve?a. Ovlaš?eni servis Gorenja smo na teritoriji: Kragujevca, Topole, Arandjelovca, Bato?ine, Lapova, Kni?, Gruža sa približno 300.000 stanovnika. Trgovina zauzima lidersko mesto u prodaji bele tehnike GORENJE.
+Tržišno orijentisani, širili smo oblast poslovanja, pa tako danas zastupamo i proizvo?a?a profesionalnih kuhinjskih ure?aja OLISS iz Italije. Trenutno upošljavamo 12 zaposlenih, i taj broj ima rastu?i trend. Preko 20 godina smo najbolji prijatelji vas i vaših ku?nih aparata, sigurni smo da ?e tako biti još mnogo godina.
+S poštovanjem, Dragoslav Miši?
+
+
+Ime testa : Performasne otvaranja 
+Opis testa : Performanse otvaranja 5 razlicitih stranica 
+Test je uspesan 
+
+
+Izvestaj o performansama stranica.
+Pocetna stranica: 12657.0
+Kontakt stranica: 1359.0
+Stranica za klima uredjaje i grejanje: 19616.0
+Stranica za nacin isporuke: 1386.0
+Stranica za ugradnu tehniku: 22995.0
+
+--------------------------------------------------------------
+Srednja vrednost: 11602.6
+
+
+
+Ime testa : Test pretrage proizvoda 
+Opis testa : Test proverava da li funkcionise pretraga proizvoda 
+Test je uspesan 
+
+
+
+
+Ime testa : Test liste zelja 
+Opis testa : Test proverava da li funkcionise dodavanje proizvoda u listu zelja 
+Test je uspesan 
+
+
+
+
+Ime testa : Test drustvenih mreza 
+Opis testa : Test proverava pristup profilima drustvenih mreza  
+Test je uspesan 
+
+
+
+
+Ime testa : Test uporedjivanja proizvoda 
+Opis testa : Test proverava da li funkcionise poredjenje proizvoda 
+Test je uspesan 
+
+
+
+
+Ime testa : Registracija korisnika 
+Opis testa : Test proverava registraciju korisnika 
+Test je uspesan 
+
+
+
+
+Ime testa : Prijava korisnika 
+Opis testa : Test proverava prijavu korisnika na sajt 
+Test je uspesan 
+
+
+
+
+Ime testa : Provera podataka prijavljenog korsinika 
+Opis testa : Test proverava indenti?nost podataka prijavljenog korisnika 
+Test je uspesan 
+
+
+
+
+Ime testa : Dodavanje proizvoda u korpu 
+Opis testa : Test proverava da li se proizvodi dodaju u korpu 
+Test je uspesan 
+
+
+
+
+Ime testa : Test drustvenih mreza 
+Opis testa : Test proverava pristup profilima drustvenih mreza  
+Test je uspesan 
+
+
+
